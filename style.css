@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Michroma&display=swap");
+
+body {
+  background-color: #000a02;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#clock {
+  font-family: "Michroma", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: greenyellow;
+  background-color: #122b26;
+  width: 300px;
+  margin: auto;
+  border-radius: 5px;
+  border: 2px solid greenyellow;
+  padding: 20px;
+}
+
+main {
+  text-align: center;
+}
+
+span {
+  text-align: center;
+}
