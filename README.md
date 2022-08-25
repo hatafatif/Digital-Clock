@@ -1,3 +1,3 @@
 ## Digital Clock
 
-A very simple project to practice Javascript. Realtime JavaScript clock.
+A very simple project to practice Javascript asychronous programming.
